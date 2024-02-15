@@ -1,8 +1,14 @@
 # Hello, I'm Tharidu 👋
 
-## About Me
+### About Me
+🔭 I'm currently working on enhancing my skills in ethical hacking, penetration testing, and network security.
 
-I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka. My passion lies in safeguarding digital assets and promoting secure online practices. With a background in [mention relevant education or experience], I'm constantly exploring new technologies and techniques to stay ahead in the ever-evolving landscape of cybersecurity.
+🌱 I'm continuously learning about the latest trends and technologies in cybersecurity to stay ahead in this ever-evolving field.
+
+💼 I'm open to collaboration on cybersecurity projects and always eager to contribute to the community.
+
+📚 I hold certifications in CEH, CISSP and have hands-on experience with various security tools and frameworks.
+
 
 ## Skills
 
@@ -12,6 +18,18 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 - **Risk Management:** Skilled in assessing and mitigating risks to ensure the confidentiality, integrity, and availability of sensitive information.
 - **Compliance:** Knowledgeable about industry standards and regulations such as GDPR, HIPAA, and PCI DSS.
 
+
+
+## Languages and Tools
+🛠️ Some of the languages and tools I'm proficient in include:
+- Python
+- Bash
+- Wireshark
+- Metasploit
+- Nmap
+- Snort
+- Burp Suite
+
 ## Projects
 
 - **[Project Name]:** Brief description of the project and your contributions.
@@ -20,8 +38,8 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/thariduniroshan/
 - Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
 - Email: [your.email@example.com]
 
-Feel free to reach out if you'd like to collaborate on cybersecurity projects, share insights, or discuss the latest trends in the field. Let's work together to make the digital world a safer place!
+### Let's Secure the Digital World Together! 💻🔒
