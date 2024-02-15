@@ -33,7 +33,7 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/thariduniroshan/
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Twitter: https://twitter.com/Tharidu530
 - Email: thariduniroshan950@gmail.com
 
 ### Let's Secure the Digital World Together! 💻🔒
