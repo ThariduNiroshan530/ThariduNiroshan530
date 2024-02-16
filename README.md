@@ -26,10 +26,9 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 
 ## Projects
 
-- **[Project Name]:** Brief description of the project and your contributions.
-- **[Project Name]:** Brief description of the project and your contributions.
-- **[Project Name]:** Brief description of the project and your contributions.
-
+- **[Project Name]:** Brief description of the project.
+- **[Project Name]:** Brief description of the project.
+- **[Project Name]:** Brief description of the project.
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/thariduniroshan/
