@@ -1,6 +1,6 @@
 # Hello, I'm Tharidu 👋
 
-### About Me
+## About Me
 I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka. My passion lies in safeguarding digital assets and promoting secure online practices. With a background in University of Moratuwa, I'm constantly exploring new technologies and techniques to stay ahead in the ever-evolving landscape of cybersecurity.
 
 
