@@ -31,8 +31,8 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 - **[Project Name]:** Brief description of the project.
 ## Get in Touch
 
-- *LinkedIn*: https://www.linkedin.com/in/thariduniroshan/
-- *Twitter*: https://twitter.com/Tharidu530
-- *Email*: thariduniroshan950@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thariduniroshan/
+- Twitter: https://twitter.com/Tharidu530
+- Email: thariduniroshan950@gmail.com
 
 ### Let's Secure the Digital World Together! 💻🔒
